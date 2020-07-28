@@ -1,4 +1,6 @@
-### Hi there 👋
+Hey there, I'm Emile 👋  
+
+I'm a frontend engineer based in San Francisco, CA. Born and raised in Palo Alto, CA I graduated from UC Santa Cruz with a degree in political science before discovering my passion for building on the web. Formerly @doctor.com for 4 years, I mainly work with JavaScript and React, but these days I'm starting to play around with some Python as well. 
 
 <!--
 **echoghi/echoghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
